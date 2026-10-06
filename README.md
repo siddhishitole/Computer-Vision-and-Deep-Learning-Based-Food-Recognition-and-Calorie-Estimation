@@ -65,20 +65,22 @@ The model demonstrates promising performance in recognizing food items and estim
 ## Results
 
 ### Food Recognition Output
-![Food Recognition Output 1](results/pic1.png)
-![Food Recognition Output 2](results/pic2.png)
+![Food Recognition Output 1](Extra_components/results/pic1.png)
+![Food Recognition Output 2](Extra_components/results/pic2.png)
 
 ### Computer Vision Model Results
-![Model Result 1](results/pic3.png)
-![Model Result 2](results/pic4.png)
+![Model Result 1](Extra_components/results/pic3.png)
+![Model Result 2](Extra_components/results/pic4.png)
 
 ### Prediction Examples
-![Prediction 1](results/pic5.png)
-![Prediction 2](results/pic6.png)
-![Prediction 3](results/pic7.png)
+![Prediction 1](Extra_components/results/pic5.png)
+![Prediction 2](Extra_components/results/pic6.png)
+![Prediction 3](Extra_components/results/pic7.png)
 
 ### Accuracy Curve
-![Accuracy Plot](results/pic8.png)
+![Accuracy Plot](Extra_components/results/pic8.png)
+
+> All result files are available in the `Extra_components/results/` directory.
 
 
 > All result files are available in the `results/` directory.
